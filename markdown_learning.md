@@ -81,6 +81,39 @@ $$
 123123
 --- 
 
-[徐耀晨的github](https://github.com/xyc0833)
+[徐耀晨的github](https://github.com/xyc0833 "相关的提示")
+
+[徐耀晨的github][id]
+
+[徐耀晨的github][id]
+
+[徐耀晨的github][id]
 
 
+[id]:https://github.com/xyc0833 "相关的提示"
+
+请参考 [タイトル](#タイトル)
+
+url:
+
+http://www.baidu.com
+
+# 图片
+
+![百度](https://www.baidu.com/img/flexible/logo/pc/result.png)
+
+*斜体*
+
+**加粗**
+
+```java
+system.out.println();
+```
+
+<u>下划线</u>
+
+x^2^
+
+h~2~o
+
+==asdfasdf==

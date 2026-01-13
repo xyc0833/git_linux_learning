@@ -348,3 +348,33 @@ echo "hello" > hello.txt
  /etc下面存放的是 和系统 和软件相关的配置文件
 
  ![alt text](image-1.png)
+
+ du  查看文件大小
+
+ ubuntu@ubuntu:~$ du -a
+4	./xyc01.txt
+4	./hardlink.txt
+0	./link.txt
+4	./hello.txt
+4	./.bash_logout
+4	./.bash_history
+0	./.cache/motd.legal-displayed
+4	./.cache
+4	./.ssh/authorized_keys
+8	./.ssh
+8	./.viminfo
+4	./.profile
+4	./.bashrc
+52	.
+ubuntu@ubuntu:~$ 
+
+
+ubuntu@ubuntu:~$ tree
+.
+├── hardlink.txt
+├── hello.txt
+├── link.txt -> hello.txt
+└── xyc01.txt
+
+1 directory, 4 files
+ubuntu@ubuntu:~$ 

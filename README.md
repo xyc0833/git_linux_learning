@@ -61,10 +61,6 @@ Currently learning Git fundamental operations including commit/push/pull.
 ## 🔜 技术、代码方面计划
 - [ ] **SQL相关** 
   - 描述：参考cola君的B站视频（IT清单）
-  - [ ] 视图
-  - [ ] 窗口函数
-  - [ ] 删除
-  - [ ] 函数
   - [ ] 约束
 - [ ] **doker 入门**
   - 描述：Geekhour B站视频 
@@ -88,6 +84,7 @@ Currently learning Git fundamental operations including commit/push/pull.
   - [ ] 枚举型
   - [ ] 设计模式
     - 描述：有一本书的 菜鸟和老手 重新捡起来复习
+    - https://github.com/zq99299/repository-summary?tab=readme-ov-file
   - [ ] 集合
   - [ ] 泛型
   - [ ] File
@@ -116,10 +113,17 @@ Currently learning Git fundamental operations including commit/push/pull.
 - [x] **leetcode hot 100 c++ 部分题目** 
 - [x] **sql入门40题一刷**
 - [x] **sql入门40题二刷复习**   
+- [ ] **SQL相关** 
+  - 描述：参考cola君的B站视频（IT清单）
+  - [x] 视图
+  - [x] 窗口函数
+  - [x] 删除
+  - [x] 函数
 - [x] **任务名称** - 完成日期：2026-01-18
   - 描述：简要说明任务内容
   - 优先级：高/中/低
   - 备注：附加信息
+
 
 ---
 ## ⏳ 中长期目标规划

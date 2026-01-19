@@ -61,7 +61,7 @@ Currently learning Git fundamental operations including commit/push/pull.
 ## 🔜 技术、代码方面计划
 - [ ] **SQL相关** 
   - 描述：参考cola君的B站视频（IT清单）
-  - [ ] 约束
+  - [ ] 约束 （脏读 不可重复读 幻读）
 - [ ] **doker 入门**
   - 描述：Geekhour B站视频 
 - [ ] **Jenkins 入门**

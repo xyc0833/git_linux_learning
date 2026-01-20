@@ -140,9 +140,10 @@ Currently learning Git fundamental operations including commit/push/pull.
   - 学习教程B站上收藏了 
 - [ ] **阿里新零售数据库设计与实战**
   - 描述 : https://zq99299.github.io/mysql-tutorial/ali-new-retail/
-
 - [ ] **Docker 1小时快速上手教程，无废话纯干货**
   - 描述 : https://www.bilibili.com/video/BV11L411g7U1?spm_id_from=333.788.recommend_more_video.0&trackid=web_related_0.router-related-2206146-pcpwg.1768880730758.661&vd_source=4fd29620ab97a080af7ee392e19b0fcb
   - 描述 : 到时候能否配合 自己写的项目程序 放到 docker镜像上面 让别人使用？
+- [ ] **Youtube博主 日文打字练习** 
+    - 描述：油管关注了的 有一个博主的日文打字练习 100个单词之类的
 
 

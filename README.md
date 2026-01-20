@@ -59,11 +59,7 @@ Currently learning Git fundamental operations including commit/push/pull.
 - [ ] **圆圆的就职笔记**
 
 ## 🔜 技术、代码方面计划
-- [ ] **SQL相关** 
-  - 描述：参考cola君的B站视频（IT清单）
-  - [ ] 约束 （脏读 不可重复读 幻读）
-- [ ] **doker 入门**
-  - 描述：Geekhour B站视频 
+
 - [ ] **Jenkins 入门**
   - 描述：Geekhour B站视频 
 - [ ] **JAVA基础** 
@@ -113,12 +109,15 @@ Currently learning Git fundamental operations including commit/push/pull.
 - [x] **leetcode hot 100 c++ 部分题目** 
 - [x] **sql入门40题一刷**
 - [x] **sql入门40题二刷复习**   
-- [ ] **SQL相关** 
+- [x] **SQL相关** 
   - 描述：参考cola君的B站视频（IT清单）
   - [x] 视图
   - [x] 窗口函数
   - [x] 删除
   - [x] 函数
+  - [x] 约束 （脏读 不可重复读 幻读）
+- [x] **doker 入门**
+  - 描述：Geekhour B站视频 
 - [x] **任务名称** - 完成日期：2026-01-18
   - 描述：简要说明任务内容
   - 优先级：高/中/低
@@ -139,5 +138,11 @@ Currently learning Git fundamental operations including commit/push/pull.
 - [ ] **typescript 学习视频**
   - 描述：小红书上有一家公司在用这个 要不要学一下
   - 学习教程B站上收藏了 
+- [ ] **阿里新零售数据库设计与实战**
+  - 描述 : https://zq99299.github.io/mysql-tutorial/ali-new-retail/
+
+- [ ] **Docker 1小时快速上手教程，无废话纯干货**
+  - 描述 : https://www.bilibili.com/video/BV11L411g7U1?spm_id_from=333.788.recommend_more_video.0&trackid=web_related_0.router-related-2206146-pcpwg.1768880730758.661&vd_source=4fd29620ab97a080af7ee392e19b0fcb
+  - 描述 : 到时候能否配合 自己写的项目程序 放到 docker镜像上面 让别人使用？
 
 

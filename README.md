@@ -68,16 +68,16 @@ Currently learning Git fundamental operations including commit/push/pull.
   - [ ] 语法
   - [ ] this
   - [ ] 传值/传址
-  - [ ] 面向对象
-  - [ ] 封装 继承 多态
-  - [ ] 抽象类
-  - [ ] 接口
-  - [ ] 数组
+  - [x] 面向对象
+  - [x] 封装 继承 多态
+  - [x] 抽象类
+  - [x] 接口
+  - [x] 数组
   - [ ] 正则表达式
-  - [ ] 常用类String
+  - [x] 常用类String
   - [ ] 时间类
   - [ ] 数字类
-  - [ ] 枚举型
+  - [x] 枚举型
   - [ ] 设计模式
     - 描述：有一本书的 菜鸟和老手 重新捡起来复习
     - https://github.com/zq99299/repository-summary?tab=readme-ov-file
@@ -87,7 +87,7 @@ Currently learning Git fundamental operations including commit/push/pull.
   - [ ] 迭代器
   - [ ] IO流
   - [ ] 配置文件 
-  - [ ] 抛出异常
+  - [x] 抛出异常
   - [ ] 反射
   - [ ] 多线程
 
@@ -145,5 +145,13 @@ Currently learning Git fundamental operations including commit/push/pull.
   - 描述 : 到时候能否配合 自己写的项目程序 放到 docker镜像上面 让别人使用？
 - [ ] **Youtube博主 日文打字练习** 
     - 描述：油管关注了的 有一个博主的日文打字练习 100个单词之类的
+- [ ] **java 并发编程** 
+    - 描述：并发编程相关之前没有了解 是不是应该学习一下
+    - 笔记：不知道对不对的 https://github.com/Seazean/JavaNote/blob/main/Java.md
+    - 相关指引：https://ls8sck0zrg.feishu.cn/wiki/JxJnwoORPiLmw1kIU8AcutLJnHh
+    - 视频教程 ：https://www.bilibili.com/video/BV16J411h7Rd?spm_id_from=333.788.videopod.episodes&vd_source=894a223b85ae44e61e16dcd1a7356db0
+    - 文字教程：https://learn.lianglianglee.com/%e4%b8%93%e6%a0%8f/Java%20%e5%b9%b6%e5%8f%91%e7%bc%96%e7%a8%8b%2078%20%e8%ae%b2-%e5%ae%8c/00%20%e7%94%b1%e7%82%b9%e5%8f%8a%e9%9d%a2%ef%bc%8c%e6%90%ad%e5%bb%ba%e4%bd%a0%e7%9a%84%20Java%20%e5%b9%b6%e5%8f%91%e7%9f%a5%e8%af%86%e7%bd%91.md
+
+
 
 

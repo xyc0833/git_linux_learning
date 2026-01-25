@@ -60,11 +60,13 @@ Currently learning Git fundamental operations including commit/push/pull.
 
 ## 🔜 技术、代码方面计划
 
+- [ ] **卡码网 ACM输入输出练习 C++版本**
+  - 描述：针对2道编程题 练习一下代码
 - [ ] **Jenkins 入门**
   - 描述：Geekhour B站视频 
 - [ ] **JAVA基础** 
   - 描述：参考cola君的B站视频（IT清单）
-  - [ ] 基础数据类型
+  - [x] 基础数据类型
   - [ ] 语法
   - [ ] this
   - [ ] 传值/传址
@@ -88,7 +90,7 @@ Currently learning Git fundamental operations including commit/push/pull.
   - [ ] IO流
   - [ ] 配置文件 
   - [x] 抛出异常
-  - [ ] 反射
+  - [x] 反射
   - [ ] 多线程
 
 
@@ -151,6 +153,8 @@ Currently learning Git fundamental operations including commit/push/pull.
     - 相关指引：https://ls8sck0zrg.feishu.cn/wiki/JxJnwoORPiLmw1kIU8AcutLJnHh
     - 视频教程 ：https://www.bilibili.com/video/BV16J411h7Rd?spm_id_from=333.788.videopod.episodes&vd_source=894a223b85ae44e61e16dcd1a7356db0
     - 文字教程：https://learn.lianglianglee.com/%e4%b8%93%e6%a0%8f/Java%20%e5%b9%b6%e5%8f%91%e7%bc%96%e7%a8%8b%2078%20%e8%ae%b2-%e5%ae%8c/00%20%e7%94%b1%e7%82%b9%e5%8f%8a%e9%9d%a2%ef%bc%8c%e6%90%ad%e5%bb%ba%e4%bd%a0%e7%9a%84%20Java%20%e5%b9%b6%e5%8f%91%e7%9f%a5%e8%af%86%e7%bd%91.md
+- [ ] **卡码网 ACM输入输出练习 Java版本**
+  - 描述：借此复习一下 基础的java相关代码的使用
 
 
 

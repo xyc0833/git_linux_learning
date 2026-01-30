@@ -158,7 +158,9 @@ Currently learning Git fundamental operations including commit/push/pull.
     - 文字教程：https://learn.lianglianglee.com/%e4%b8%93%e6%a0%8f/Java%20%e5%b9%b6%e5%8f%91%e7%bc%96%e7%a8%8b%2078%20%e8%ae%b2-%e5%ae%8c/00%20%e7%94%b1%e7%82%b9%e5%8f%8a%e9%9d%a2%ef%bc%8c%e6%90%ad%e5%bb%ba%e4%bd%a0%e7%9a%84%20Java%20%e5%b9%b6%e5%8f%91%e7%9f%a5%e8%af%86%e7%bd%91.md
 - [ ] **卡码网 ACM输入输出练习 Java版本**
   - 描述：借此复习一下 基础的java相关代码的使用
-
+- [ ] **JavaSE 复习一些内容**
+  - 描述：想学习Java路线就业但是很急真的没时间的同学： 想办法抽时间出来学，不要抱着考试的心态来学，就业不是你考试通过了就万事大吉了，而是你要真的会做，该花的时间必须花。社会很残酷，你会就是会不会就是不会，同样的工作人家基础扎实一个小时做完，而你基础不牢要做一天。
+  - 参考柏码官网 针对 java中的一些 新特性查缺补漏 ：https://www.itbaima.cn/zh-CN/document/8egfulw98v3h680j
 
 
 

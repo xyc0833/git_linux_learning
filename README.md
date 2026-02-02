@@ -81,10 +81,10 @@ Currently learning Git fundamental operations including commit/push/pull.
   - [ ] 设计模式
     - 描述：有一本书的 菜鸟和老手 重新捡起来复习
     - https://github.com/zq99299/repository-summary?tab=readme-ov-file
-  - [ ] 集合
+  - [x] 集合
   - [ ] 泛型
   - [ ] File
-  - [ ] 迭代器
+  - [x] 迭代器
   - [ ] IO流
   - [ ] 配置文件 
   - [x] 抛出异常

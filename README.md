@@ -66,6 +66,9 @@ Currently learning Git fundamental operations including commit/push/pull.
 
 ## 🔜 技术、代码方面计划
 
+- [ ] **Junit测试** 
+  - 描述：参考cola君的B站视频（IT清单）在对日测试中出现频率较高
+  - [ ] 柏码或者 JavaSE相关课程
 - [ ] **Jenkins 入门**
   - 描述：Geekhour B站视频 
 - [ ] **JAVA基础** 

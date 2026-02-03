@@ -55,8 +55,14 @@ Currently learning Git fundamental operations including commit/push/pull.
 - [ ] **IT商务日语复习** 
   - 描述：B站视频 ryushinyan
 - [ ] **图文并茂学日语** 
+  - [x] 1-67
+  - [ ] 68-80
+  - [ ] 81-90
+  - [ ] 91-100
+  - [ ] 101-110
 - [ ] **日本礼仪文化** 
 - [ ] **圆圆的就职笔记**
+- [ ] **找一下日语口语班的课程**
 
 ## 🔜 技术、代码方面计划
 
@@ -82,7 +88,7 @@ Currently learning Git fundamental operations including commit/push/pull.
     - 描述：有一本书的 菜鸟和老手 重新捡起来复习
     - https://github.com/zq99299/repository-summary?tab=readme-ov-file
   - [x] 集合
-  - [ ] 泛型
+  - [x] 泛型
   - [ ] File
   - [x] 迭代器
   - [ ] IO流

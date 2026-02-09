@@ -37,6 +37,16 @@ Currently learning Git fundamental operations including commit/push/pull.
 - 首次操作均在测试分支进行
 - 提交信息目前使用中文（计划下周切换为英文）
 
+### git   配置
+**配置HTTP代理**
+git config --global http.proxy http://127.0.0.1:7890
+**配置HTTPS代理**
+git config --global https.proxy http://127.0.0.1:7890
+
+**查看当前代理是否生效**
+git config --global --get http.proxy
+git config --global --get https.proxy
+
 
 
 ### 代办事项
@@ -56,7 +66,7 @@ Currently learning Git fundamental operations including commit/push/pull.
   - 描述：B站视频 ryushinyan
 - [ ] **图文并茂学日语** 
   - [x] 1-67
-  - [ ] 68-80
+  - [x] 68-80
   - [ ] 81-90
   - [ ] 91-100
   - [ ] 101-110
@@ -99,6 +109,15 @@ Currently learning Git fundamental operations including commit/push/pull.
   - [x] 抛出异常
   - [x] 反射
   - [ ] 多线程
+- [ ] **小美架炮 笔试题复习**
+  - 描述：https://www.doubao.com/thread/w9cc28fcf9cf805f5
+- [ ] **周日的笔试题 — java基础内容 复习**
+  - 描述：wxchat 链接
+- [ ] **周日的笔试题 — 三道编程题 复习**
+  - 描述：wxchat 链接
+  - [ ] leetcode LRU缓存 c++的写法 + java的写法
+  - [ ] 字符串那道题 学习 java的写法
+  - [ ] 最大字数组和  学习java的写法
 
 
 - [ ] **任务名称** - 截止日期：2026-01-23

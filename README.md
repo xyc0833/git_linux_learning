@@ -67,7 +67,7 @@ git config --global --get https.proxy
 - [ ] **图文并茂学日语** 
   - [x] 1-67
   - [x] 68-80
-  - [ ] 81-90
+  - [x] 81-90
   - [ ] 91-100
   - [ ] 101-110
 - [ ] **日本礼仪文化** 
@@ -76,9 +76,8 @@ git config --global --get https.proxy
 
 ## 🔜 技术、代码方面计划
 
-- [ ] **Junit测试** 
-  - 描述：参考cola君的B站视频（IT清单）在对日测试中出现频率较高
-  - [ ] 柏码或者 JavaSE相关课程
+- [ ] **廖雪峰 JavaSE 加密与安全**
+  - 描述：还是看一下吧 万一工作会用呢？
 - [ ] **Jenkins 入门**
   - 描述：Geekhour B站视频 
 - [ ] **JAVA基础** 
@@ -92,7 +91,7 @@ git config --global --get https.proxy
   - [x] 抽象类
   - [x] 接口
   - [x] 数组
-  - [ ] 正则表达式
+  - [x] 正则表达式
   - [x] 常用类String
   - [ ] 时间类
   - [ ] 数字类
@@ -126,6 +125,9 @@ git config --global --get https.proxy
   - 备注：附加信息
 
 ## ✅ 已完成
+- [x] **Junit测试** 
+  - 描述：参考cola君的B站视频（IT清单）在对日测试中出现频率较高
+  - [x] 柏码或者 JavaSE相关课程
 - [x] **卡码网 ACM输入输出练习 C++版本**
   - 描述：针对2道编程题 练习一下代码
   - [x] 1-8题

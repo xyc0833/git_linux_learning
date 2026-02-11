@@ -64,15 +64,16 @@ git config --global --get https.proxy
   - [ ] 110-121
 - [ ] **IT商务日语复习** 
   - 描述：B站视频 ryushinyan
-- [ ] **图文并茂学日语** 
-  - [x] 1-67
-  - [x] 68-80
-  - [x] 81-90
-  - [ ] 91-100
-  - [ ] 101-110
 - [ ] **日本礼仪文化** 
+  - [ ] 第1-3章
+  - [ ] 第4-6章
+  - [ ] 第7-9章
+  - [ ] 第10-12章
+  - [ ] 第13-15章
 - [ ] **圆圆的就职笔记**
 - [ ] **找一下日语口语班的课程**
+- [ ] **秋山曜平的 商务日语课** 
+  - 描述：B站视频 找一下 闲鱼看一看
 
 ## 🔜 技术、代码方面计划
 
@@ -93,7 +94,7 @@ git config --global --get https.proxy
   - [x] 数组
   - [x] 正则表达式
   - [x] 常用类String
-  - [ ] 时间类
+  - [x] 时间类
   - [ ] 数字类
   - [x] 枚举型
   - [ ] 设计模式
@@ -101,15 +102,13 @@ git config --global --get https.proxy
     - https://github.com/zq99299/repository-summary?tab=readme-ov-file
   - [x] 集合
   - [x] 泛型
-  - [ ] File
+  - [x] File
   - [x] 迭代器
-  - [ ] IO流
+  - [x] IO流
   - [ ] 配置文件 
   - [x] 抛出异常
   - [x] 反射
   - [ ] 多线程
-- [ ] **小美架炮 笔试题复习**
-  - 描述：https://www.doubao.com/thread/w9cc28fcf9cf805f5
 - [ ] **周日的笔试题 — java基础内容 复习**
   - 描述：wxchat 链接
 - [ ] **周日的笔试题 — 三道编程题 复习**
@@ -125,6 +124,14 @@ git config --global --get https.proxy
   - 备注：附加信息
 
 ## ✅ 已完成
+- [x] **小美架炮 笔试题复习**
+  - 描述：https://www.doubao.com/thread/w9cc28fcf9cf805f5
+- [x] **图文并茂学日语** 
+  - [x] 1-67
+  - [x] 68-80
+  - [x] 81-90
+  - [x] 91-100
+  - [x] 101-110
 - [x] **Junit测试** 
   - 描述：参考cola君的B站视频（IT清单）在对日测试中出现频率较高
   - [x] 柏码或者 JavaSE相关课程

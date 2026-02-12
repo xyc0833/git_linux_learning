@@ -115,7 +115,7 @@ git config --global --get https.proxy
   - 描述：wxchat 链接
   - [ ] leetcode LRU缓存 c++的写法 + java的写法
   - [ ] 字符串那道题 学习 java的写法
-  - [ ] 最大字数组和  学习java的写法
+  - [x] 最大字数组和  学习java的写法
 
 
 - [ ] **任务名称** - 截止日期：2026-01-23

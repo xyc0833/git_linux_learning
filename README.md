@@ -98,6 +98,20 @@ git config --global --get https.proxy
 
 ## 🔜 技术、代码方面计划
 
+- [ ] **JavaWeb** 
+  - [x]Java网络编程
+  - [x]数据库基础
+  - [x]JDBC
+  - [ ]Lombok
+  - [ ]Mybatis
+  - [ ]JUL日志框架
+  - [ ]Maven
+  - [ ]图书管理系统
+  - [ ]前端基础
+  - [ ]后端 p72-82
+  - [ ]后端 p82-92
+  - [ ]图书管理系统  
+
 - [ ] **JVM虚拟机** 
   - [ ]走进JVM
   - [ ]内存管理
@@ -112,9 +126,6 @@ git config --global --get https.proxy
   - [ ]JDBC 相关内容
   - [ ]xml 相关内容
 
-- [ ] **JavaSE 9-17相关新特性**
-  - 描述：想学习Java路线就业但是很急真的没时间的同学： 想办法抽时间出来学，不要抱着考试的心态来学，就业不是你考试通过了就万事大吉了，而是你要真的会做，该花的时间必须花。社会很残酷，你会就是会不会就是不会，同样的工作人家基础扎实一个小时做完，而你基础不牢要做一天。
-  - 参考柏码官网 针对 java中的一些 新特性查缺补漏 ：https://www.itbaima.cn/zh-CN/document/8egfulw98v3h680j
 
 - [ ] **Jenkins 入门**
   - 描述：Geekhour B站视频 
@@ -137,7 +148,11 @@ git config --global --get https.proxy
 
 ## ✅ 已完成
 
-- [ ] **JAVA基础**
+- [x] **JavaSE 9-17相关新特性**
+  - 描述：想学习Java路线就业但是很急真的没时间的同学： 想办法抽时间出来学，不要抱着考试的心态来学，就业不是你考试通过了就万事大吉了，而是你要真的会做，该花的时间必须花。社会很残酷，你会就是会不会就是不会，同样的工作人家基础扎实一个小时做完，而你基础不牢要做一天。
+  - 参考柏码官网 针对 java中的一些 新特性查缺补漏 ：https://www.itbaima.cn/zh-CN/document/8egfulw98v3h680j
+
+- [x] **JAVA基础**
   - [x] 配置文件 
   - [x] 传值/传址
   - [x] this

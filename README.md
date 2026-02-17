@@ -102,7 +102,7 @@ git config --global --get https.proxy
   - [x]Java网络编程
   - [x]数据库基础
   - [x]JDBC
-  - [ ]Lombok
+  - [x]Lombok
   - [ ]Mybatis
   - [ ]JUL日志框架
   - [ ]Maven

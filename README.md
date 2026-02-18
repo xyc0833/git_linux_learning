@@ -103,8 +103,8 @@ git config --global --get https.proxy
   - [x]数据库基础
   - [x]JDBC
   - [x]Lombok
-  - [ ]Mybatis
-  - [ ]JUL日志框架
+  - [x]Mybatis
+  - [x]JUL日志框架
   - [ ]Maven
   - [ ]图书管理系统
   - [ ]前端基础

@@ -106,7 +106,7 @@ git config --global --get https.proxy
   - [x]Mybatis
   - [x]JUL日志框架
   - [x]Maven
-  - [ ]图书管理系统
+  - [x]图书管理系统
   - [ ]前端基础
   - [ ]后端 p72-82
   - [ ]后端 p82-92

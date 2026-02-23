@@ -107,8 +107,8 @@ git config --global --get https.proxy
   - [x]JUL日志框架
   - [x]Maven
   - [x]图书管理系统
-  - [ ]前端基础
-  - [ ]后端 p72-82
+  - [x]前端基础
+  - [x]后端 p72-82
   - [ ]后端 p82-92
   - [ ]图书管理系统  
 

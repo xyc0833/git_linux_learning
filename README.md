@@ -98,19 +98,12 @@ git config --global --get https.proxy
 
 ## 🔜 技术、代码方面计划
 
-- [ ] **JavaWeb** 
-  - [x]Java网络编程
-  - [x]数据库基础
-  - [x]JDBC
-  - [x]Lombok
-  - [x]Mybatis
-  - [x]JUL日志框架
-  - [x]Maven
-  - [x]图书管理系统
-  - [x]前端基础
-  - [x]后端 p72-82
-  - [x]后端 p82-92
-  - [ ]图书管理系统  
+- [ ] **Spring 基础内容** 
+  - [ ]IoC容器基础
+  - [ ]SpringEL表达式
+  - [ ]AOP面向切片
+  - [ ]数据库框架整合
+
 
 - [ ] **JVM虚拟机** 
   - [ ]走进JVM
@@ -122,23 +115,18 @@ git config --global --get https.proxy
   - [ ]并发编程核心
   - [ ]并发编程进阶
 
-- [ ] **JAVA基础补充** 
-  - [ ]JDBC 相关内容
-  - [ ]xml 相关内容
-
-
 - [ ] **Jenkins 入门**
   - 描述：Geekhour B站视频 
+
 - [ ] **周日的笔试题 — java基础内容 复习**
   - 描述：wxchat 链接
 
 - [ ] **JAVA基础** 
   - 描述：参考cola君的B站视频（IT清单）
   - [ ] 设计模式
-    - 描述：有一本书的 菜鸟和老手 重新捡起来复习
-    - https://github.com/zq99299/repository-summary?tab=readme-ov-file
-    - **学完JavaEE之后再来学习这个**
-    - 柏码对应链接：https://www.itbaima.cn/zh-CN/document/6386mh7anqt4tzyv
+  - [ ] 面向对象设计原则
+  - [ ] 设计模式（创建型）
+  - [ ] 设计模式（行为型）
 
 
 - [ ] **任务名称** - 截止日期：2026-01-23
@@ -147,6 +135,23 @@ git config --global --get https.proxy
   - 备注：附加信息
 
 ## ✅ 已完成
+- [x] **JAVA基础补充** 
+  - [x]JDBC 相关内容
+  - [x]xml 相关内容
+
+- [x] **JavaWeb** 
+  - [x]Java网络编程
+  - [x]数据库基础
+  - [x]JDBC
+  - [x]Lombok
+  - [x]Mybatis
+  - [x]JUL日志框架
+  - [x]Maven
+  - [x]图书管理系统
+  - [x]前端基础
+  - [x]后端 p72-82
+  - [x]后端 p82-92
+  - [x]图书管理系统  
 
 - [x] **JavaSE 9-17相关新特性**
   - 描述：想学习Java路线就业但是很急真的没时间的同学： 想办法抽时间出来学，不要抱着考试的心态来学，就业不是你考试通过了就万事大吉了，而是你要真的会做，该花的时间必须花。社会很残酷，你会就是会不会就是不会，同样的工作人家基础扎实一个小时做完，而你基础不牢要做一天。
@@ -228,6 +233,8 @@ git config --global --get https.proxy
 ---
 ## ⏳ 中长期目标规划
 
+- [ ] **柏码:spring 基础 两块选学的部分** 
+- [ ] **重写jsp的图书管理系统** 
 - [ ] **SPI 玉手箱 相关准备** 
 - [ ] **sql较难18道 牛客网题目** 
     - 描述：B站up主 橘长不是局长

@@ -98,12 +98,12 @@ git config --global --get https.proxy
 
 ## 🔜 技术、代码方面计划
 
-- [ ] **Spring 基础内容** 
-  - [x] IoC容器基础
-  - [x] SpringEL表达式
-  - [ ] AOP面向切片
-  - [ ] 数据库框架整合
-
+- [ ] **SpringMVC基础** 
+  - [ ] 配置环境并搭建项目
+  - [ ] Controller控制器
+  - [ ] RestFul风格
+  - [ ] Interceptor拦截器
+  - [ ] JSON数据格式与Axios请求
 
 - [ ] **JVM虚拟机** 
   - [ ] 走进JVM
@@ -135,6 +135,12 @@ git config --global --get https.proxy
   - 备注：附加信息
 
 ## ✅ 已完成
+- [x] **Spring 基础内容** 
+  - [x] IoC容器基础
+  - [x] SpringEL表达式
+  - [x] AOP面向切片
+  - [x] 数据库框架整合
+
 - [x] **JAVA基础补充** 
   - [x]JDBC 相关内容
   - [x]xml 相关内容

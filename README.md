@@ -98,12 +98,12 @@ git config --global --get https.proxy
 
 ## 🔜 技术、代码方面计划
 
-- [ ] **SpringMVC基础** 
-  - [ ] 配置环境并搭建项目
-  - [ ] Controller控制器
-  - [ ] RestFul风格
-  - [ ] Interceptor拦截器
-  - [ ] JSON数据格式与Axios请求
+- [ ] **SpringSecurity** 
+  - [ ] 网络安全
+  - [ ] 核心内容
+  - [ ] 图书管理系统1-3
+  - [ ] 图书管理系统4-7
+
 
 - [ ] **JVM虚拟机** 
   - [ ] 走进JVM
@@ -135,6 +135,13 @@ git config --global --get https.proxy
   - 备注：附加信息
 
 ## ✅ 已完成
+- [x] **SpringMVC基础** 
+  - [x] 配置环境并搭建项目
+  - [x] Controller控制器
+  - [x] RestFul风格
+  - [x] Interceptor拦截器
+  - [x] JSON数据格式与Axios请求
+
 - [x] **Spring 基础内容** 
   - [x] IoC容器基础
   - [x] SpringEL表达式

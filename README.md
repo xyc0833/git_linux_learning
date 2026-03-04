@@ -98,16 +98,11 @@ git config --global --get https.proxy
 
 ## 🔜 技术、代码方面计划
 
-- [ ] **SpringSecurity** 
-  - [ ] 网络安全
-  - [ ] 核心内容
-  - [ ] 图书管理系统1-3
-  - [ ] 图书管理系统4-7
-
-
 - [ ] **JVM虚拟机** 
-  - [ ] 走进JVM
-  - [ ] 内存管理
+  - [x] 走进JVM
+  - [x] 内存管理 
+
+  - [ ] 垃圾回收
   - [ ] 类与类加载
 
 - [ ] **JUC并发编程** 
@@ -135,6 +130,13 @@ git config --global --get https.proxy
   - 备注：附加信息
 
 ## ✅ 已完成
+
+- [x] **SpringSecurity** 
+  - [x] 网络安全
+  - [x] 核心内容
+  - [x] 图书管理系统1-3
+  - [x] 图书管理系统4-7
+
 - [x] **SpringMVC基础** 
   - [x] 配置环境并搭建项目
   - [x] Controller控制器

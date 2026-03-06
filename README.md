@@ -98,23 +98,14 @@ git config --global --get https.proxy
 
 ## 🔜 技术、代码方面计划
 
-- [ ] **JVM虚拟机** 
-  - [x] 走进JVM
-  - [x] 内存管理 
-
-  - [ ] 垃圾回收
-  - [ ] 类与类加载
-
 - [ ] **JUC并发编程** 
-  - [ ] 再谈多线程
-  - [ ] 并发编程核心
+  - [x] 再谈多线程
+  - [x] 并发编程核心
   - [ ] 并发编程进阶
 
 - [ ] **Jenkins 入门**
   - 描述：Geekhour B站视频 
 
-- [ ] **周日的笔试题 — java基础内容 复习**
-  - 描述：wxchat 链接
 
 - [ ] **JAVA基础** 
   - 描述：参考cola君的B站视频（IT清单）
@@ -130,6 +121,15 @@ git config --global --get https.proxy
   - 备注：附加信息
 
 ## ✅ 已完成
+
+- [x] **JVM虚拟机** 
+  - [x] 走进JVM
+  - [x] 内存管理 
+  - [x] 垃圾回收
+  - [x] 类与类加载
+
+- [x] **周日的笔试题 — java基础内容 复习**
+  - 描述：wxchat 链接
 
 - [x] **SpringSecurity** 
   - [x] 网络安全
@@ -248,6 +248,8 @@ git config --global --get https.proxy
 ---
 ## ⏳ 中长期目标规划
 
+- [ ] **JUC并发编程** 
+  - [ ] AQS队列同步器
 - [ ] **柏码:spring 基础 两块选学的部分** 
 - [ ] **重写jsp的图书管理系统** 
 - [ ] **SPI 玉手箱 相关准备** 

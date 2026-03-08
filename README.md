@@ -98,10 +98,12 @@ git config --global --get https.proxy
 
 ## 🔜 技术、代码方面计划
 
-- [ ] **JUC并发编程** 
-  - [x] 再谈多线程
-  - [x] 并发编程核心
-  - [ ] 并发编程进阶
+- [ ] **Java NIO Netty网络编程** 
+  - [x]  缓冲区
+  - [ ]  通道
+  - [ ]  多路复用网络通信
+  - [ ]  nio框架存在的问题
+  - [ ]  走进Netty
 
 - [ ] **Jenkins 入门**
   - 描述：Geekhour B站视频 
@@ -121,6 +123,11 @@ git config --global --get https.proxy
   - 备注：附加信息
 
 ## ✅ 已完成
+
+- [x] **JUC并发编程** 
+  - [x] 再谈多线程
+  - [x] 并发编程核心
+  - [x] 并发编程进阶
 
 - [x] **JVM虚拟机** 
   - [x] 走进JVM
